@@ -145,4 +145,8 @@
   <symbol id="icon-checkmark" viewBox="0 0 10 8">
     <path d="M8.44439 0.292893L3.44439 5.29289L1.55554 3.40404L0.141327 4.81825L3.44439 8.12132L9.85861 1.70711L8.44439 0.292893Z" fill="#F4F4FD"/>
   </symbol>
+
+  <symbol id="icon-menu" viewBox="0 0 20 20">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" fill="#2E2F42"/>
+  </symbol>
 </svg>
