@@ -618,11 +618,17 @@ body {
 .modal-close-btn:hover,
 .modal-close-btn:focus,
 .mobile-menu-close-btn:hover,
-.mobile-menu-close-btn:focus,
+.mobile-menu-close-btn:focus {
+    background-color: #404bbf;
+}
+
+.nav-link.current::after {
+    background-color: #404bbf;
+}
+
 .nav-link:hover,
 .nav-link:focus,
 .nav-link.current,
-.nav-link.current::after,
 .mobile-menu-nav-link.current,
 .mobile-menu-nav-link:hover,
 .mobile-menu-nav-link:focus,
@@ -630,7 +636,7 @@ body {
 .mobile-menu-address-link:focus,
 .address-link:hover,
 .address-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 @media (min-width: 768px) {
